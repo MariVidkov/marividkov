@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Mariyan Vidkov</h1>
-<h3 align="center">17 years old student from Bulgaria at Technological school Electronic systems - part of Technical University Sofia - Computer Networking student, Event Organizer, Programmer, Designer.</h3>
+<h3 align="center">18 years old student from Bulgaria at Technological school Electronic systems - part of Technical University Sofia - Computer Networking student, Event Organizer, Programmer, Designer.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marividkov" alt="marividkov" /></a> </p>
 
