@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on my **private projects, company, marketing strategies**
 
-- 🌱 I’m currently learning **Linux and Django**
+- 🌱 I’m currently learning **Django REST Framework and ReactJS**
 
 - 👨‍💻 All of my projects are available at [soon](soon)
 
