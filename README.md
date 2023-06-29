@@ -1,6 +1,6 @@
 
 <h1 align="center">Mariyan Vidkov</h1>
-<h3 align="center">18 years old student from Bulgaria at Technological school Electronic systems, Business Manager, Event Organizer, Programmer, Designer.</h3>
+<h3 align="center">18 years old Business Manager, Event Organizer, Programmer, Designer.</h3>
 
 - 🔭 I’m currently working on my **private projects, company, marketing strategies**
 
