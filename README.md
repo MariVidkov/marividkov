@@ -2,11 +2,9 @@
 <h1 align="center">Mariyan Vidkov</h1>
 <h3 align="center">19 years old.</h3>
 
-- 🔭 I’m currently working on my **private projects, company, marketing strategies**
+- 🔭 I’m currently working on my **private business projects**
 
 - 🌱 I’m currently learning **Django REST Framework and ReactJS**
-
-- 👨‍💻 All of my projects are available at [soon](soon)
 
 - 📫 How to reach me **marividkov@gmail.com**
 
