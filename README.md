@@ -1,6 +1,6 @@
 
 <h1 align="center">Mariyan Vidkov</h1>
-<h3 align="center">19 years old.</h3>
+<h3 align="center">20 years old.</h3>
 
 - 🔭 I’m currently working on my **private business projects**
 
