@@ -1,11 +1,6 @@
 
-<h1 align="center">Mariyan Vidkov</h1>
-<h3 align="center">20 years old.</h3>
-
-- 🔭 I’m currently working on my **private business projects**
-
-- 🌱 I’m currently learning **Django REST Framework and ReactJS**
-
+<h1 align="center">Mariyan Vidkov (20yo)</h1>
+- 📊 I’m currently working on my **private business projects**
 - 📫 How to reach me **marividkov@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
