@@ -1,5 +1,5 @@
 
-<h1 align="center">Mariyan Vidkov (20yo)</h1>
+<h1 align="center">Mariyan Vidkov (21yo)</h1>
 - 📊 I’m currently working on my private business projects
 - 📫 How to reach me <a href="mailto:marividkov@gmail.com">marividkov@gmail.com
 
